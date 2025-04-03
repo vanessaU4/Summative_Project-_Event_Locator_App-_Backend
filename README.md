@@ -11,7 +11,7 @@ Unit Testing (Jest + Supertest)
 🚀 Installation
 Clone the repo:
 
-git clone https://github.com/Cecilia-Banda/Event-Locator-App---Backend.git
+git clone (https://github.com/vanessaU4/Summative_Project-_Event_Locator_App-_Backend).git
 Install dependecies npm install
 
 Create an .env file with these included: MONGO_URI=mongodb:your root JWT_SECRET=your_secret_key
